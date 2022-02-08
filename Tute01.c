@@ -6,7 +6,7 @@
 
 int main() {
    int no1, no2;
-	int avg;
+	int avg;   
 	
 	printf("Enter the first mark:");
 	scanf("%d",&no1); //read the value

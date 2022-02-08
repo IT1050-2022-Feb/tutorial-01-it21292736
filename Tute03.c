@@ -1,4 +1,4 @@
-/*Exercise 3 - Repetition
+  /*Exercise 3 - Repetition
 
 Write a C program to calculate the sum of the numbers from 1 to n.
 Where n is a keyboard input.
