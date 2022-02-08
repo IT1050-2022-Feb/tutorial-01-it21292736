@@ -16,7 +16,7 @@ int main() {
 	
 	avg=(no1+no2)/2;
 	
-	printf("The avg is %d\n",avg); 
+	printf("The average is %d\n",avg); 
 	
   
   return 0;
